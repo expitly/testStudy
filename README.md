@@ -20,3 +20,14 @@ Mock Object = 행위 검증(behavior verification)
 
 Stub = 상태 검증(state verification)
 
+
+
+#### * TDD
+
+1. Test가 실패 할 경우에만 코드를 작성한다.
+
+2. 중복을 제거한다.
+   - 실패하는 TEST 만들기.
+   - Test가 성공하도록 무슨짓을 하던 초록색이 뜨도록 수정하기
+   - 리팩토링
+
